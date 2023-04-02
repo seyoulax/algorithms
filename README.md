@@ -1,6 +1,6 @@
-<h1 align="center">ALGORITHMS</h1>
+<h1 align="center">ALGORITHMS AND DATA STRUCTURES</h1>
 
-<h3 align="center">(Collection of algorithms written by me)</h3>
+<h3 align="center">(Collection of algorithms and data-structures written by me)</h3>
 
 ### Current full list:
 
@@ -40,7 +40,7 @@
 <li> 
 
 
-```Breadth-First-Search``` 
+```Breadth-First-Search (graph)``` 
     
    
 </li> 
