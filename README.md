@@ -2,7 +2,7 @@
 
 <h3 align="center">(Collection of algorithms written by me)</h3>
 
-### Full list:
+### Current full list:
 
 <ul>
 
@@ -10,38 +10,16 @@
 <li> 
 
 
-
-
-
-
-    ***Binary search*** 
+``` Binary search ``` 
     
-    
-    
-    
-    
-    
-    
-    
-    
+ 
 </li> 
 
 
 <li> 
 
 
-
-
-
-
-    ***Sort by choice*** 
-    
-    
-    
-    
-    
-    
-    
+```Sort by choice``` 
     
     
 </li> 
@@ -52,19 +30,9 @@
 
 
 
-
-
-
-    ***Quicksort*** 
+```Quicksort``` 
     
-    
-    
-    
-    
-    
-    
-    
-    
+        
 </li> 
 
 
@@ -72,20 +40,9 @@
 <li> 
 
 
-
-
-
-
-    ***Breadth-First-Search*** 
+```Breadth-First-Search``` 
     
-    
-    
-    
-    
-    
-    
-    
-    
+   
 </li> 
 
 </ul>
