@@ -40,7 +40,15 @@
 <li> 
 
 
-```Breadth-First-Search (graph)``` 
+```Breadth-First-Search (BFS)``` 
+    
+   
+</li> 
+    
+<li> 
+
+
+```Depth-first Search (DFS)``` 
     
    
 </li> 
